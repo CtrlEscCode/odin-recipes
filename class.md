@@ -1,3 +1,3 @@
 Denzel
 Harare
-Meta Front-End Professional Developer
+Meta Front-End Professional Developer Certificate
